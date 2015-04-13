@@ -1,0 +1,113 @@
+.body
+{
+	font-family:calibri;
+	background:#CACAD9;
+	margin:0
+}
+
+.email
+{
+	width:100%;
+	background-color:#fff
+}
+
+.menu
+{
+	width:100%
+}
+
+p
+{
+	margin:0
+}
+
+#wrapper
+{
+	margin:0 auto;
+	height:35px;
+	width:320px;
+	background-color:#9CF
+}
+
+#wrapper2
+{
+	margin:0 auto;
+	height:30px;
+	width:320px;
+	background-color:#DDD
+}
+
+#wrapper3
+{
+	margin:0 auto;
+	height:22px;
+	width:320px;
+	background-color:#FFF;
+	display:none
+}
+
+#wrapper4
+{
+	margin:0 auto;
+	height:481px;
+	width:320px;
+	background-color:#FFF;
+	overflow-y:auto
+}
+
+.T
+{
+	font-size:16pt;
+	text-align:center
+}
+
+.ST
+{
+	font-size:12pt
+}
+
+.ET
+{
+	font-size:14pt;
+	font-weight:700
+}
+
+.ES
+{
+	font-size:12pt
+}
+
+.ER
+{
+	font-size:12pt;
+	font-weight:italic
+}
+
+.border
+{
+	border-bottom:solid 1px #EEE
+}
+
+a:active,a:hover,a:link,a:visited
+{
+	color:#FFF;
+	text-decoration:none
+}
+
+::-webkit-scrollbar
+{
+	width:12px;
+	background-color:#FFF
+}
+
+::-webkit-scrollbar-track
+{
+	border-radius:10px;
+	background-color:#FFF
+}
+
+::-webkit-scrollbar-thumb
+{
+	border-radius:10px;
+	background-color:#FFF
+}
